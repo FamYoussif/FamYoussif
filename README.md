@@ -1,53 +1,53 @@
-Lite
-12:00
-Hello! I'm doing great, and I'm ready to help you make your GitHub README cool and up-to-date.
-Your current README is well-structured, but we can definitely make it more engaging, professional, and visually appealing by integrating your new certification and using the optimized language we developed.
-Here is the new, "cool" README content, designed to be concise, professional, and impactful:
-Updated GitHub README.md Content
-Markdown
-# 👋 Hi, I'm Fam Youssif
+# 👋 Hi, I'm Fam Youssif  
+### 💻 Junior CRM Dynamics 365 & .NET Core Backend Developer
 
-### 🚀 Dynamics 365 CRM Developer | Microsoft Certified | Backend Integration Specialist
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:fam.youssif000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/fam-youssif-6069531ab/ )
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/FamYoussif )
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fam.youssif000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fam-youssif-6069531ab/)
 
 ---
 
-## 💡 Core Focus
+## 🧑‍💻 About Me
 
-I am a highly motivated **Dynamics 365 CRM Developer** with a focus on building robust, scalable business solutions. My expertise lies in the full-stack development of CRM systems, from deep platform customization to secure backend integration.
-
-- 💼 **Current Role:** CRM Developer at **Systems Limited - Egypt**
-- 🎓 **Education:** Bachelor of Computer Science – MTI University
-- 🌍 **Impact:** Contributed to high-profile projects like the **RTA CRM System (Dubai)** and the **IIS (Abu Dhabi)**.
-
----
-
-## 🛠️ Technical Stack
-
-| Category | Key Skills |
-| :--- | :--- |
-| **Dynamics 365 CE** | Customization, **Plugins**, **Workflows**, Business Rules, Dataverse, Xrm ToolBox |
-| **Backend** | **ASP.NET Core Web API**, C#, SQL Server, Entity Framework Core, REST/Webhooks |
-| **Tools & DevOps** | Git, GitHub, Visual Studio, SSMS, Postman |
+- 🎓 **Bachelor of Computer Science** – MTI University, Egypt (2019–2023)  
+- 💼 Currently working as a **Software Engineer at System Egypt**  
+- 💡 Passionate about building real-world CRM and backend solutions  
+- 🌍 Based in **Cairo, Egypt**
 
 ---
 
-## 🏆 Certifications & Learning
+## 🧰 Skills
 
-| Certification | Focus | Year |
-| :--- | :--- | :--- |
-| **Microsoft Certified: Dynamics 365 Fundamentals (CRM)** | Foundational knowledge of the platform | **2025** |
-| Artificial Intelligence Course | NTI & ITIDA | 2021 |
-| Web Development Challenge Track | Udacity/FWD, ITIDA | 2021 |
+### 💼 CRM Dynamics 365
+- 🔧 Customization: Entities, Forms, Views, Business Rules  
+- ⚙️ Workflows, Power Automate, Plugins  
+- 🧠 JavaScript for client-side scripting  
+- 🔗 Integration with REST APIs & Webhooks  
+- 🛡️ Security roles, user management, and Dataverse  
+
+### 🖥️ .NET Core & Backend Development
+- 🌐 ASP.NET Core Web API  
+- 🗃️ Entity Framework Core  
+- 🧩 SQL Server (Stored Procedures, Indexing, Joins)  
+- 🔐 JWT Authentication, Middleware, DI  
+- 🔁 Integration with third-party APIs  
+
+### 🛠️ Tools & Other Technologies
+- 📁 Git & GitHub  
+- 🧰 Visual Studio, SSMS, Postman  
+- 🌐 HTML, CSS, JavaScript (basic frontend)  
+- 🧩 Strong problem-solving & debugging skills  
 
 ---
 
-## 🔗 Connect with Me
+## 📚 Courses & Certifications
 
-I'm always open to connecting with fellow developers and discussing new projects!
+- 🧠 **Artificial Intelligence Course** – Digital Youth Egypt (NTI & ITIDA)  
+- 🌐 **Web Development Challenge Track** – Udacity/FWD, ITIDA  
 
-- 📧 **Email**: fam.youssif000@gmail.com
-- 🔗 **LinkedIn**: [linkedin.com/in/fam-youssif-6069531ab](https://www.linkedin.com/in/fam
+---
+
+## 📫 Contact Me
+
+- 📧 **Email**: [fam.youssif000@gmail.com](mailto:fam.youssif000@gmail.com)  
+- 📱 **Phone**: +20127715907  
+- 🔗 **LinkedIn**: [linkedin.com/in/fam-youssif-6069531ab](https://www.linkedin.com/in/fam-youssif-6069531ab)
